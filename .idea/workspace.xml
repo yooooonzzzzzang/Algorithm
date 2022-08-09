@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="116eef6d-fca3-49d1-a41d-a76999cc8221" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01_List2/01_4828_min_max/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_List2/02_4834_cards/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_List2/02_4834_cards/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_List2/02_4834_cards/sample_output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_List2/03_4835_sumofintervals/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_List2/03_4835_sumofintervals/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_List2/03_4835_sumofintervals/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_List2/03_4835_sumofintervals/sample_output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_List2/05_1208_Flatten/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_List2/05_1208_Flatten/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_List2/05_1208_Flatten/s1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01_List1/03_View/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_List1/03_View/s1.py" afterDir="false" />
     </list>
