@@ -2,27 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="116eef6d-fca3-49d1-a41d-a76999cc8221" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02_LIst1/01_P1/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_LIst1/01_P1/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_LIst1/02_P2/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_LIst1/02_P2/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_LIst1/02_P2/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_LIst1/03_Snail/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_LIst1/03_Snail/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_LIst1/03_Snail/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_LIst1/04_Sum/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_LIst1/04_Sum/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_LIst1/04_Sum/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_LIst1/online/delta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_LIst1/online/list2_ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_LIst1/online/list2_대각선.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_LIst1/online/list2_대각선양쪽합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_LIst1/online/list2_사선의합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_LIst1/online/list2_행의합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_LIst1/online/selection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_LIst1/online/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_LIst1/online/zigzag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_List2/01_부분집합의합/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_List2/02_이진탐색/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_List2/03_특별한정렬/s1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_LIst1/02_P2/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_LIst1/02_P2/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_LIst1/03_Snail/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_LIst1/03_Snail/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_LIst1/online/delta.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_LIst1/online/delta.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +26,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2D3esEB81S5IA973oeog2RhlBDJ" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -51,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/02_LIst1/04_Sum" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -66,7 +52,7 @@
       <recent name="C:\Users\multicampus\Desktop\Algorithm\01_List2\02_4834_cards" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.s1 (2)">
+  <component name="RunManager" selected="Python.s1 (4)">
     <configuration name="delta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,27 +66,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_LIst1/online/delta.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="list2_대각선 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_LIst1/online" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_LIst1/online/list2_대각선.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,11 +124,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_LIst1/04_Sum" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_List2/01_부분집합의합" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_LIst1/04_Sum/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_List2/01_부분집합의합/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_List2/02_이진탐색" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_List2/02_이진탐색/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.s1 (2)" />
+        <item itemvalue="Python.s1 (4)" />
+        <item itemvalue="Python.s1 (3)" />
         <item itemvalue="Python.s1 (1)" />
+        <item itemvalue="Python.s1 (2)" />
         <item itemvalue="Python.delta" />
-        <item itemvalue="Python.s1" />
-        <item itemvalue="Python.list2_대각선 (1)" />
       </list>
     </recent_temporary>
   </component>
