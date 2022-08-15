@@ -2,25 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="116eef6d-fca3-49d1-a41d-a76999cc8221" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Codeup/6081.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeup/6082.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeup/6083.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeup/6084.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeup/6085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeup/6086.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeup/6087.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeup/6088.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeup/6089.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeup/6090.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeup/6091.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeup/6092.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeup/6093.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeup/6094.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeup/6095.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeup/6096.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeup/6097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeup/6098.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codeup/6091.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codeup/6091.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codeup/6092.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codeup/6092.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codeup/6093.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codeup/6093.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codeup/6094.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codeup/6094.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codeup/6095.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codeup/6095.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codeup/6096.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codeup/6096.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +60,8 @@
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\02_LIst" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6090">
-    <configuration name="6086" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.6095">
+    <configuration name="6091" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeup/6086.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeup/6091.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6087" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6092" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeup/6087.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeup/6092.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6088" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6093" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeup/6088.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeup/6093.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6089" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6094" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeup/6089.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeup/6094.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6090" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6095" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,7 +157,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeup/6090.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeup/6095.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6090" />
-        <item itemvalue="Python.6089" />
-        <item itemvalue="Python.6088" />
-        <item itemvalue="Python.6087" />
-        <item itemvalue="Python.6086" />
+        <item itemvalue="Python.6095" />
+        <item itemvalue="Python.6094" />
+        <item itemvalue="Python.6093" />
+        <item itemvalue="Python.6092" />
+        <item itemvalue="Python.6091" />
       </list>
     </recent_temporary>
   </component>
