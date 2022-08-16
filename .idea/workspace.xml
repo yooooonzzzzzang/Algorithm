@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="116eef6d-fca3-49d1-a41d-a76999cc8221" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01_List2/04_4831_electric_bus/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_List2/01_부분집합의합/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_List2/05_ladder1/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_List2/05_ladder1/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_String2/01_3143_가장빠른문자열타이핑/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_String2/02_4861_회문/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_String2/03_4865_글자수/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_String2/04_4864_문자열비교/s1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_List2/05_ladder1/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_List2/05_ladder1/s1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Codeup/6096.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codeup/6096.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codeup/6097.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codeup/6097.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +56,8 @@
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\02_LIst" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.s2">
-    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.6097">
+    <configuration name="6096" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_String2/04_4864_문자열비교" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codeup" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_String2/04_4864_문자열비교/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeup/6096.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6097" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_String2/01_3143_가장빠른문자열타이핑" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codeup" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_String2/01_3143_가장빠른문자열타이핑/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeup/6097.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6097" />
+        <item itemvalue="Python.6096" />
         <item itemvalue="Python.s2" />
         <item itemvalue="Python.s1 (4)" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.s1 (3)" />
-        <item itemvalue="Python.s1 (2)" />
       </list>
     </recent_temporary>
   </component>
