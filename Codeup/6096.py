@@ -6,4 +6,16 @@ check = [list(map(int, input().split())) for _ in range(19)]
 n = int(input())
 for i in range(n):
     x, y = map(int, input().split())
-    for j in range(x):
+    for j in range(19):
+        if check[x-1][y] == 0:
+            check[x-1][y] = 1
+        else:
+            check[x-1][y] = 0
+        if check[x][j] == 0:
+            check[x][j] = 1
+        else:
+            check[x][j] = 0
+for i in range(19):
+    for j in range(19):
+        print(check[i][j], end=' ')
+    print()
