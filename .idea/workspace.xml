@@ -2,9 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="116eef6d-fca3-49d1-a41d-a76999cc8221" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/03_String2/05_1216_회문2/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1/01_스택구현/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1/01_스택구현/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1/02_괄호매칭/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1/03_DFS구현/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1/04_파스칼의삼각형/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1/04_파스칼의삼각형/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_dfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_dfs2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_dfs_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_fibo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_fibo_dp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_fibo_memo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_recur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_재귀.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_재귀2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codeup/6096.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codeup/6096.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codeup/6097.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codeup/6097.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,24 +56,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/02_LIst1/04_Sum" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/04_Stack1/oneline" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\04_Stack1\oneline" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\02_LIst1\04_Sum" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\02_LIst1\03_Snail" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\04_Stack1\oneline" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\Codeup" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\02_LIst1\01_P1" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\01_List2\04_4831_electric_bus" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\02_LIst\online" />
-      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\02_LIst" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6097">
-    <configuration name="6096" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.s1 (1)">
+    <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codeup" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_String2/05_1216_회문2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeup/6096.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_String2/05_1216_회문2/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6097" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codeup" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Stack1/02_괄호매칭" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeup/6097.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Stack1/02_괄호매칭/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="stack1_dfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_List2/05_ladder1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Stack1/oneline" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_List2/05_ladder1/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Stack1/oneline/stack1_dfs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="stack1_dfs2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_List2/05_ladder1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Stack1/oneline" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_List2/05_ladder1/s2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Stack1/oneline/stack1_dfs2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="stack1_fibo_memo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +166,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_List2/05_ladder1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Stack1/oneline" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_List2/05_ladder1/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Stack1/oneline/stack1_fibo_memo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6097" />
-        <item itemvalue="Python.6096" />
-        <item itemvalue="Python.s2" />
-        <item itemvalue="Python.s1 (4)" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.s1 (1)" />
+        <item itemvalue="Python.stack1_fibo_memo" />
+        <item itemvalue="Python.s1" />
+        <item itemvalue="Python.stack1_dfs2" />
+        <item itemvalue="Python.stack1_dfs" />
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +223,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Codeup/6077.py</url>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04_Stack1/oneline/stack1_dfs.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
