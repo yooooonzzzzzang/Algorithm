@@ -2,25 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="116eef6d-fca3-49d1-a41d-a76999cc8221" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_String2/05_1216_회문2/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1/01_스택구현/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1/01_스택구현/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1/02_괄호매칭/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1/03_DFS구현/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1/04_파스칼의삼각형/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1/04_파스칼의삼각형/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_dfs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_dfs2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_dfs_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_fibo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_fibo_dp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_fibo_memo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_recur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_재귀.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_재귀2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_dfs2_재귀_교수님.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_dfs_반복문_교수님.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/01_10773_제로/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/02_2606_바이러스/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/03_2667_단지번호붙이기/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/04_4873_반복문자지우기/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/04_4873_반복문자지우기/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/04_4873_반복문자지우기/sample_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/05_1234_비밀번호/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/05_1234_비밀번호/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/05_1234_비밀번호/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/06_4866_괄호검사/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/06_4866_괄호검사/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/06_4866_괄호검사/sample_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/07_4871_그래프경로/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/07_4871_그래프경로/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/07_4871_그래프경로/sample_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/08_1219_길찾기/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/08_1219_길찾기/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/09_4869_종이붙이기/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/09_4869_종이붙이기/sample_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/10_10870_피보나치수5/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack2/10_10870_피보나치수5/s2_memo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Stack1/02_괄호매칭/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/04_Stack1/02_괄호매칭/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +60,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/04_Stack1/oneline" />
@@ -73,7 +80,7 @@
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\02_LIst\online" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.s1 (1)">
+  <component name="RunManager" selected="Python.s1 (2)">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,11 +89,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_String2/05_1216_회문2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Stack2/05_1234_비밀번호" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_String2/05_1216_회문2/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Stack2/05_1234_비밀번호/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Stack2/07_4871_그래프경로" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Stack2/07_4871_그래프경로/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Stack2/06_4866_괄호검사" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Stack2/06_4866_괄호검사/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,32 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Stack1/02_괄호매칭" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Stack2/04_4873_반복문자지우기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Stack1/02_괄호매칭/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="stack1_dfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Stack1/oneline" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Stack1/oneline/stack1_dfs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Stack2/04_4873_반복문자지우기/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,34 +186,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stack1_fibo_memo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Stack1/oneline" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Stack1/oneline/stack1_fibo_memo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1 (2)" />
+        <item itemvalue="Python.s1 (3)" />
         <item itemvalue="Python.s1 (1)" />
-        <item itemvalue="Python.stack1_fibo_memo" />
         <item itemvalue="Python.s1" />
         <item itemvalue="Python.stack1_dfs2" />
-        <item itemvalue="Python.stack1_dfs" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +218,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
