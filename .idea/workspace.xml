@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="116eef6d-fca3-49d1-a41d-a76999cc8221" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_dfs2_재귀_교수님.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1/oneline/stack1_dfs_반복문_교수님.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/01_10773_제로/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/02_2606_바이러스/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/03_2667_단지번호붙이기/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/04_4873_반복문자지우기/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/04_4873_반복문자지우기/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/04_4873_반복문자지우기/sample_output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/05_1234_비밀번호/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/05_1234_비밀번호/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/05_1234_비밀번호/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/06_4866_괄호검사/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/06_4866_괄호검사/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/06_4866_괄호검사/sample_output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/07_4871_그래프경로/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/07_4871_그래프경로/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/07_4871_그래프경로/sample_output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/08_1219_길찾기/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/08_1219_길찾기/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/09_4869_종이붙이기/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/09_4869_종이붙이기/sample_output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/10_10870_피보나치수5/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack2/10_10870_피보나치수5/s2_memo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Stack1/02_괄호매칭/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/04_Stack1/02_괄호매칭/input.txt" afterDir="false" />
-    </list>
+    <list default="true" id="116eef6d-fca3-49d1-a41d-a76999cc8221" name="Default Changelist" comment="docs: Add 04_Stack2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,6 +179,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659932399632</updated>
     </task>
+    <task id="LOCAL-00001" summary="docs: Add 04_Stack2">
+      <created>1660811784065</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660811784065</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +203,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="docs: Add 04_Stack2" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: Add 04_Stack2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
