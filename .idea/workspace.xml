@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="116eef6d-fca3-49d1-a41d-a76999cc8221" name="Default Changelist" comment="docs: Add 04_Stack2" />
+    <list default="true" id="116eef6d-fca3-49d1-a41d-a76999cc8221" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/모의고사/01_2667_단지번호붙이기/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/모의고사/02_1012_유기농배추/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/모의고사/03_4963_섬의개수/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/01_민석이의과제체크하기/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/01_민석이의과제체크하기/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/01_민석이의과제체크하기/sample_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/02_퍼펙트셔플/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/02_퍼펙트셔플/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/02_퍼펙트셔플/sample_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이/s_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이/s_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/05_청용마을_무리의개수/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/05_청용마을_무리의개수/s_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/05_청용마을_무리의개수/s_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/모의고사/이차원격자에서의DFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Stack2/07_4871_그래프경로/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Stack2/07_4871_그래프경로/s1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,8 +75,8 @@
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\02_LIst\online" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.s1 (2)">
-    <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.s2">
+    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Stack2/05_1234_비밀번호" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Stack2/05_1234_비밀번호/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="s1 (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,32 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Stack2/07_4871_그래프경로" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/모의고사/모의고사/02_퍼펙트셔플" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Stack2/07_4871_그래프경로/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Stack2/06_4866_괄호검사" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Stack2/06_4866_괄호검사/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/모의고사/모의고사/02_퍼펙트셔플/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Stack2/04_4873_반복문자지우기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/모의고사/모의고사/05_청용마을_무리의개수" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Stack2/04_4873_반복문자지우기/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/모의고사/모의고사/05_청용마을_무리의개수/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stack1_dfs2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="s2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +147,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Stack1/oneline" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Stack1/oneline/stack1_dfs2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이/s2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.s1 (2)" />
-        <item itemvalue="Python.s1 (3)" />
-        <item itemvalue="Python.s1 (1)" />
+        <item itemvalue="Python.s2" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.s1" />
-        <item itemvalue="Python.stack1_dfs2" />
+        <item itemvalue="Python.s1 (4)" />
+        <item itemvalue="Python.s1 (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660811784065</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="docs: Add 04_Stack2">
+      <created>1660812478720</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660812478720</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,6 +250,11 @@
           <url>file://$PROJECT_DIR$/04_Stack1/oneline/stack1_dfs.py</url>
           <line>40</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/모의고사/02_1012_유기농배추/s1.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
