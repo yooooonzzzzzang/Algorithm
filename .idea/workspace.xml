@@ -2,26 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="116eef6d-fca3-49d1-a41d-a76999cc8221" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/모의고사/01_2667_단지번호붙이기/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의고사/02_1012_유기농배추/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의고사/03_4963_섬의개수/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/01_민석이의과제체크하기/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/01_민석이의과제체크하기/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/01_민석이의과제체크하기/sample_output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/02_퍼펙트셔플/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/02_퍼펙트셔플/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/02_퍼펙트셔플/sample_output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이/s_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이/s_output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/05_청용마을_무리의개수/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/05_청용마을_무리의개수/s_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의고사/모의고사/05_청용마을_무리의개수/s_output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의고사/이차원격자에서의DFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_String2/05_1216_회문2/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/algo/2jin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/algo/bubble.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/algo/counting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/algo/delta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/algo/select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/algo/stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/method/abs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/method/max_min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/method/sorted_reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/method/sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/problem/01_2001_파리퇴치/01_2001_파리퇴치.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_Stack2/07_4871_그래프경로/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_Stack2/07_4871_그래프경로/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_String2/05_1216_회문2/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_String2/05_1216_회문2/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이/s2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,15 +63,15 @@
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\02_LIst1\03_Snail" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\시험대비\problem\01_2001_파리퇴치" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\04_Stack1\oneline" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\Codeup" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\02_LIst1\01_P1" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\01_List2\04_4831_electric_bus" />
-      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\02_LIst\online" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.s2">
-    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sum">
+    <configuration name="abs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/시험대비/method" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/시험대비/method/abs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="max_min" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/모의고사/모의고사/02_퍼펙트셔플" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/시험대비/method" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/모의고사/모의고사/02_퍼펙트셔플/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/시험대비/method/max_min.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/모의고사/모의고사/05_청용마을_무리의개수" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_String2/05_1216_회문2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/모의고사/모의고사/05_청용마을_무리의개수/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_String2/05_1216_회문2/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/시험대비/method" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/모의고사/모의고사/03_통역사_성경이/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/시험대비/method/sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sum" />
+        <item itemvalue="Python.max_min" />
+        <item itemvalue="Python.abs" />
+        <item itemvalue="Python.s1 (1)" />
         <item itemvalue="Python.s2" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.s1" />
-        <item itemvalue="Python.s1 (4)" />
-        <item itemvalue="Python.s1 (5)" />
       </list>
     </recent_temporary>
   </component>
