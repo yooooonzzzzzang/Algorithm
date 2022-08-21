@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="116eef6d-fca3-49d1-a41d-a76999cc8221" name="Default Changelist" comment="docs: Add 시험대비">
-      <change afterPath="$PROJECT_DIR$/시험대비/algo/버블정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/시험대비/problem/01_2001_파리퇴치/input (2).txt" afterDir="false" />
+    <list default="true" id="116eef6d-fca3-49d1-a41d-a76999cc8221" name="Default Changelist" comment="docs: Add 01_2001_파리퇴치">
+      <change afterPath="$PROJECT_DIR$/시험대비/problem/02_13702_델타검색/1in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/problem/02_13702_델타검색/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/problem/03_2566_최댓값/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/problem/04_1100_하얀칸/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/problem/05_1913_달팽이/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/problem/06_10157_자리배정/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/problem/07_1018_체스판다시칠하기/s1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_List1/online/delta.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_List1/online/delta.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_List2/05_ladder1/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/시험대비/algo/2jin.py" beforeDir="false" afterPath="$PROJECT_DIR$/시험대비/algo/델타탐색.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/시험대비/algo/bubble.py" beforeDir="false" afterPath="$PROJECT_DIR$/시험대비/algo/선택정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/시험대비/algo/counting.py" beforeDir="false" afterPath="$PROJECT_DIR$/시험대비/algo/이진탐색.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/시험대비/algo/delta.py" beforeDir="false" afterPath="$PROJECT_DIR$/시험대비/algo/카운팅정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/시험대비/algo/select.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/시험대비/method/sorted_reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/시험대비/algo/sorted_reverse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/시험대비/problem/01_2001_파리퇴치/01_2001_파리퇴치.py" beforeDir="false" afterPath="$PROJECT_DIR$/시험대비/problem/01_2001_파리퇴치/01_2001_파리퇴치.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/모의고사/이차원격자에서의DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/시험대비/algo/이차원격자에서의DFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/시험대비/algo/이진탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/시험대비/algo/이진탐색.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,15 +58,15 @@
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\02_LIst1\03_Snail" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\시험대비\problem\01_2001_파리퇴치" />
+      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\시험대비\problem\02_13702_델타검색" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\시험대비\algo" />
+      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\시험대비\problem\01_2001_파리퇴치" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\04_Stack1\oneline" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\Codeup" />
-      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\02_LIst1\01_P1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01_2001_파리퇴치">
-    <configuration name="버블정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.s1">
+    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/시험대비/algo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/시험대비/problem/04_1100_하얀칸" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\시험대비\algo\버블정렬.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/시험대비/problem/04_1100_하얀칸/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01_2001_파리퇴치" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/시험대비/problem/01_2001_파리퇴치" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/시험대비/problem/05_1913_달팽이" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/시험대비/problem/01_2001_파리퇴치/01_2001_파리퇴치.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/시험대비/problem/05_1913_달팽이/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="선택정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/시험대비/algo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/시험대비/problem/06_10157_자리배정" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/시험대비/algo/선택정렬.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/시험대비/problem/06_10157_자리배정/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="delta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="s1 (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_List1/online" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_List1/03_Snail" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_List1/online/delta.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_List1/03_Snail/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sorted_reverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/시험대비/algo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/시험대비/problem/07_1018_체스판다시칠하기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/시험대비/algo/sorted_reverse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/시험대비/problem/07_1018_체스판다시칠하기/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01_2001_파리퇴치" />
-        <item itemvalue="Python.delta" />
-        <item itemvalue="Python.sorted_reverse" />
-        <item itemvalue="Python.선택정렬" />
-        <item itemvalue="Python.버블정렬" />
+        <item itemvalue="Python.s1" />
+        <item itemvalue="Python.s1 (4)" />
+        <item itemvalue="Python.s1 (5)" />
+        <item itemvalue="Python.s1 (3)" />
+        <item itemvalue="Python.s1 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660915694638</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="docs: Add 01_2001_파리퇴치">
+      <created>1660974570941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660974570942</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,7 +237,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="docs: Add 04_Stack2" />
     <MESSAGE value="docs: Add 시험대비" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: Add 시험대비" />
+    <MESSAGE value="docs: Add 01_2001_파리퇴치" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: Add 01_2001_파리퇴치" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
