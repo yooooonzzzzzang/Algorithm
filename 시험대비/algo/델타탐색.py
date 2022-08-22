@@ -1,6 +1,7 @@
 dx, dy = [-1,1,0,0], [0,0,-1,1]
 
 arr = []
+n = len(arr)
 x, y = 0,0
 for k in range(4):
     nx, ny  = dx + x, dy + y
