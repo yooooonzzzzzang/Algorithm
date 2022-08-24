@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="116eef6d-fca3-49d1-a41d-a76999cc8221" name="Default Changelist" comment="docs: Add 05_Stack2">
-      <change afterPath="$PROJECT_DIR$/05_Stack2/01_후위표기법/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Stack2/02_계산기1/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Stack2/03_부분집합/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Stack2/04_계산기2/input (2).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Stack2/04_계산기2/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_Stack2/04_계산기2/test.py" afterDir="false" />
+    <list default="true" id="116eef6d-fca3-49d1-a41d-a76999cc8221" name="Default Changelist" comment="docs: Add 05_Stack2_실습">
+      <change afterPath="$PROJECT_DIR$/06_Queue1/01_1225_암호생성기/input (2).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Queue1/01_1225_암호생성기/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Queue1/02_2161_카드1/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Queue1/BFS구현.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Queue1/bfs1_길찾기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Queue1/bfs2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Queue1/mychu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Queue1/queue_미로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Queue1/미로최단거리dfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Queue1/원형큐.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Queue1/큐.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Queue1/큐2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Queue1/큐구현.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeup/1461.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeup/1462.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeup/1463.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeup/1464.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeup/1465.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeup/1466.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeup/1467.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeup/1468.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeup/1469.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeup/1470.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeup/1471.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,14 +73,98 @@
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\02_LIst1\03_Snail" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\06_Queue1\01_1225_암호생성기" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\05_Stack2\04_계산기2" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\시험대비\problem\02_13702_델타검색" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\시험대비\algo" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\시험대비\problem\01_2001_파리퇴치" />
-      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\04_Stack1\oneline" />
     </key>
   </component>
   <component name="RunManager" selected="Python.s1 (1)">
+    <configuration name="큐구현" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Queue1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Queue1/큐구현.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1467" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codeup" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeup/1467.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="원형큐" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Queue1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Queue1/원형큐.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bfs1_길찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Queue1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\06_Queue1\bfs1_길찾기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,53 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Stack2/01_후위표기법" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Queue1/01_1225_암호생성기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Stack2/01_후위표기법/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Stack2/03_부분집합" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Stack2/03_부분집합/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Stack2/04_계산기2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Stack2/04_계산기2/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Queue1/01_1225_암호생성기/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,32 +194,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Stack2/02_계산기1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Queue1/02_2161_카드1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Stack2/02_계산기1/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_Stack2/04_계산기2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_Stack2/04_계산기2/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Queue1/02_2161_카드1/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,10 +210,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.s1 (1)" />
-        <item itemvalue="Python.s1 (3)" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.s1 (2)" />
         <item itemvalue="Python.s1" />
+        <item itemvalue="Python.큐구현" />
+        <item itemvalue="Python.bfs1_길찾기" />
+        <item itemvalue="Python.1467" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661173112720</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="docs: Add 05_Stack2_실습">
+      <created>1661252395468</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661252395468</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,7 +296,8 @@
     <MESSAGE value="docs: Add 01_2001_파리퇴치" />
     <MESSAGE value="docs: Add 시험대비" />
     <MESSAGE value="docs: Add 05_Stack2" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: Add 05_Stack2" />
+    <MESSAGE value="docs: Add 05_Stack2_실습" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: Add 05_Stack2_실습" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
