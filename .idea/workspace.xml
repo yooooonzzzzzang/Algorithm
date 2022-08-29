@@ -1,23 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="116eef6d-fca3-49d1-a41d-a76999cc8221" name="Default Changelist" comment="docs: Add 06_Queue1_실습">
-      <change afterPath="$PROJECT_DIR$/IM준비/BOJ/2304_창고다각형/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/BOJ/2563_색종이/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/BOJ/2564_경비원/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/BOJ/2578_빙고/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/BOJ/2669_직사각형네개의합집합면적구하기/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/SWEA/11315_오목판정/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/SWEA/11315_오목판정/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/SWEA/11315_오목판정/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/SWEA/1289_원재의메모리복구하기/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/SWEA/1974_스도쿠검증/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/SWEA/1974_스도쿠검증/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/SWEA/2805_농작물수확하기/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/SWEA/6190_정곤이의단조증가하는수/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/SWEA/6190_정곤이의단조증가하는수/s_input.txt" afterDir="false" />
+    <list default="true" id="28189cf7-0ca2-4a40-8209-3059dc0e0c2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/IM준비/BOJ/2304_창고다각형/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM준비/BOJ/2578_빙고/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1479.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1480.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1481.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1482.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1483.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1484.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1485.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1486.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1487.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1488.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1489.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1490.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1491.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM준비/SWEA/1289_원재의메모리복구하기/input (2).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/problem/newbusnotion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/problem/ujeok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/시험대비/problem/파리3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_Queue1/미로최단거리dfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_Queue1/미로최단거리dfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/BOJ/2304_창고다각형/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/BOJ/2304_창고다각형/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/BOJ/2563_색종이/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/BOJ/2563_색종이/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/BOJ/2564_경비원/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/BOJ/2564_경비원/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/BOJ/2578_빙고/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/BOJ/2578_빙고/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/BOJ/2669_직사각형네개의합집합면적구하기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/BOJ/2669_직사각형네개의합집합면적구하기/s1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1474.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/Codeup/1474.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1475.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/Codeup/1475.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1476.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/Codeup/1476.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1477.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/Codeup/1477.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1478.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/Codeup/1478.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/11315_오목판정/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/SWEA/11315_오목판정/s2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/1289_원재의메모리복구하기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/SWEA/1289_원재의메모리복구하기/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/2805_농작물수확하기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/SWEA/2805_농작물수확하기/s1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +53,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="ProjectId" id="2D3esEB81S5IA973oeog2RhlBDJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectId" id="2DtbAzZPzolFvvb4TOrs7g5dTuW" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -51,28 +62,18 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/04_Stack1/oneline" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\04_Stack1\oneline" />
-      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\02_LIst1\04_Sum" />
-      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\02_LIst1\03_Snail" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\06_Queue1\01_1225_암호생성기" />
-      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\05_Stack2\04_계산기2" />
-      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\시험대비\problem\02_13702_델타검색" />
-      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\시험대비\algo" />
-      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\시험대비\problem\01_2001_파리퇴치" />
+      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\시험대비\problem" />
+      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\IM준비\SWEA\1289_원재의메모리복구하기" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.s1 (1)">
-    <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.파리3">
+    <configuration name="파리3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +81,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IM준비/SWEA/11315_오목판정" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/시험대비/problem" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IM준비/SWEA/11315_오목판정/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/시험대비/problem/파리3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IM준비/BOJ/2669_직사각형네개의합집합면적구하기" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IM준비/BOJ/2669_직사각형네개의합집합면적구하기/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IM준비/BOJ/2578_빙고" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IM준비/BOJ/2578_빙고/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,53 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_Queue1_실습/5102_노드의거리(BFS)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/시험대비/problem/06_10157_자리배정" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Queue1_실습/5102_노드의거리(BFS)/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s1 (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IM준비/SWEA/1974_스도쿠검증" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IM준비/SWEA/1974_스도쿠검증/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IM준비/SWEA/6190_정곤이의단조증가하는수" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IM준비/SWEA/6190_정곤이의단조증가하는수/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/시험대비/problem/06_10157_자리배정/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +165,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IM준비/SWEA/11315_오목판정" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IM준비/BOJ/2578_빙고" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IM준비/SWEA/11315_오목판정/s2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IM준비/BOJ/2578_빙고/s2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,94 +180,23 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.s1 (1)" />
-        <item itemvalue="Python.s2" />
-        <item itemvalue="Python.s1" />
-        <item itemvalue="Python.s1 (5)" />
+        <item itemvalue="Python.파리3" />
         <item itemvalue="Python.s1 (4)" />
+        <item itemvalue="Python.s1 (3)" />
+        <item itemvalue="Python.s2" />
+        <item itemvalue="Python.s1 (2)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="116eef6d-fca3-49d1-a41d-a76999cc8221" name="Default Changelist" comment="" />
-      <created>1659932399632</created>
+      <changelist id="28189cf7-0ca2-4a40-8209-3059dc0e0c2d" name="Default Changelist" comment="" />
+      <created>1661521193568</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1659932399632</updated>
+      <updated>1661521193568</updated>
     </task>
-    <task id="LOCAL-00001" summary="docs: Add 04_Stack2">
-      <created>1660811784065</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1660811784065</updated>
-    </task>
-    <task id="LOCAL-00002" summary="docs: Add 04_Stack2">
-      <created>1660812478720</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1660812478720</updated>
-    </task>
-    <task id="LOCAL-00003" summary="docs: Add 시험대비">
-      <created>1660915694638</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1660915694638</updated>
-    </task>
-    <task id="LOCAL-00004" summary="docs: Add 01_2001_파리퇴치">
-      <created>1660974570941</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1660974570942</updated>
-    </task>
-    <task id="LOCAL-00005" summary="docs: Add 시험대비">
-      <created>1661088905860</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1661088905860</updated>
-    </task>
-    <task id="LOCAL-00006" summary="docs: Add 05_Stack2">
-      <created>1661173112720</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1661173112720</updated>
-    </task>
-    <task id="LOCAL-00007" summary="docs: Add 05_Stack2_실습">
-      <created>1661252395468</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1661252395468</updated>
-    </task>
-    <task id="LOCAL-00008" summary="docs: Add 06_Queue1">
-      <created>1661339752381</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1661339752383</updated>
-    </task>
-    <task id="LOCAL-00009" summary="docs: Add IM준비">
-      <created>1661384229211</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1661384229211</updated>
-    </task>
-    <task id="LOCAL-00010" summary="docs: Add 06_Queue1_실습">
-      <created>1661417253111</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1661417253111</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,44 +211,13 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="docs: Add 04_Stack2" />
-    <MESSAGE value="docs: Add 01_2001_파리퇴치" />
-    <MESSAGE value="docs: Add 시험대비" />
-    <MESSAGE value="docs: Add 05_Stack2" />
-    <MESSAGE value="docs: Add 05_Stack2_실습" />
-    <MESSAGE value="docs: Add 06_Queue1" />
-    <MESSAGE value="docs: Add IM준비" />
-    <MESSAGE value="docs: Add 06_Queue1_실습" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: Add 06_Queue1_실습" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/02_List1/01_P1/s2.py</url>
-          <line>5</line>
+          <url>file://$PROJECT_DIR$/IM준비/Codeup/1474.py</url>
+          <line>7</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Codeup/6077.py</url>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04_Stack1/oneline/stack1_dfs.py</url>
-          <line>40</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/모의고사/02_1012_유기농배추/s1.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/IM준비/SWEA/1974_스도쿠검증/s1.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

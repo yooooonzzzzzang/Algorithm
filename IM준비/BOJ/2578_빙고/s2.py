@@ -1,28 +1,44 @@
-arr = [list(map(int, input().split())) for _ in range(5)]
-answer = 0
+
+
+matrix = [list(map(int, input().split())) for _ in range(5)]
 call = [list(map(int, input().split())) for _ in range(5)]
-def check_row(li):
+answer = 0
+
+
+def check_row(bing_go):
     answer = 0
     for row in range(5):
-        if sum(li[row]) == 0:
+
+        if sum(bing_go[row]) == 0:
             answer += 1
+
     return answer
-def check_col(li):
+
+
+def check_col(bing_go):
     answer = 0
+
     for col in range(5):
         sum_value = 0
+
         for row in range(5):
-            sum_value += li[row][col]
+            sum_value += bing_go[row][col]
+
         if sum_value == 0:
             answer += 1
+
     return answer
-def check_x(li):
+
+
+def check_x(bing_go):
     answer = 0
     slash = 0
     back_slash = 0
+
     for i in range(5):
-        slash += li[i][i]
-        back_slash += li[i][4 - i]
+        slash += bing_go[i][i]
+        back_slash += bing_go[i][4 - i]
+
     if slash == 0:
         answer += 1
     if back_slash == 0:
@@ -38,16 +54,19 @@ for row in range(5):
 
         for i in range(5):
             for j in range(5):
-                if arr[i][j] == call_num:
-                    arr[i][j] = 0
+                if matrix[i][j] == call_num:
+                    matrix[i][j] = 0
                     break
-        row_cnt = check_row(arr)
-        col_cnt = check_col(arr)
-        x_cnt = check_x(arr)
+
+        row_cnt = check_row(matrix)
+        col_cnt = check_col(matrix)
+        x_cnt = check_x(matrix)
 
         if row_cnt + col_cnt + x_cnt >= 3:
             answer = cnt
             break
-    if answer!= 0:
+
+    if answer != 0:
         break
+
 print(answer)

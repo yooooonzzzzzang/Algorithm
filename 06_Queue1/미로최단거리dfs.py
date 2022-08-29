@@ -21,4 +21,4 @@ for tc in range(1, T+1):
         if sti != -1:
             break
     visited = [[0]]
-    print(f'# {tc} {bfs(sti, stj, N)}')
+    print(f'# {tc} {dfs(sti, stj, N)}')
