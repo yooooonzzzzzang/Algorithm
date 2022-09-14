@@ -1,42 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28189cf7-0ca2-4a40-8209-3059dc0e0c2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/IM준비/BOJ/2304_창고다각형/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/BOJ/2578_빙고/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1479.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1480.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1481.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1482.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1483.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1484.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1485.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1486.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1487.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1488.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1489.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1490.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/Codeup/1491.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM준비/SWEA/1289_원재의메모리복구하기/input (2).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/시험대비/problem/newbusnotion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/시험대비/problem/ujeok.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/시험대비/problem/파리3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="28189cf7-0ca2-4a40-8209-3059dc0e0c2d" name="Default Changelist" comment="docs: Add IM준비">
+      <change afterPath="$PROJECT_DIR$/07_Tree1/5174_subtree/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Tree1/5174_subtree/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Tree1/input (2).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Tree1/tree1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Tree1/tree2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Tree1/tree연습문제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Tree1/tree연습문제2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Tree1/영역나누기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Tree1/최대힙.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알테준비/Codeup/1461_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알테준비/Codeup/6098.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알테준비/programmers/성격유형검사/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알테준비/programmers/성격유형검사/s2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_Queue1/미로최단거리dfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_Queue1/미로최단거리dfs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IM준비/BOJ/2304_창고다각형/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/BOJ/2304_창고다각형/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IM준비/BOJ/2563_색종이/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/BOJ/2563_색종이/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IM준비/BOJ/2564_경비원/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/BOJ/2564_경비원/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IM준비/BOJ/2578_빙고/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/BOJ/2578_빙고/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IM준비/BOJ/2669_직사각형네개의합집합면적구하기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/BOJ/2669_직사각형네개의합집합면적구하기/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1474.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/Codeup/1474.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1475.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/Codeup/1475.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1476.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/Codeup/1476.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1477.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/Codeup/1477.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1478.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/Codeup/1478.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/11315_오목판정/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/SWEA/11315_오목판정/s2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/1289_원재의메모리복구하기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/SWEA/1289_원재의메모리복구하기/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/2805_농작물수확하기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM준비/SWEA/2805_농작물수확하기/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/BOJ/2304_창고다각형/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/BOJ/2304_창고다각형/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/BOJ/2304_창고다각형/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/BOJ/2304_창고다각형/s2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/BOJ/2563_색종이/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/BOJ/2563_색종이/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/BOJ/2564_경비원/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/BOJ/2564_경비원/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/BOJ/2578_빙고/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/BOJ/2578_빙고/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/BOJ/2578_빙고/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/BOJ/2578_빙고/s2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/BOJ/2669_직사각형네개의합집합면적구하기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/BOJ/2669_직사각형네개의합집합면적구하기/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1460_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1460_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1461.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1461.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1461_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Tree1/01_연습문제1_순회.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1461_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1461_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1462.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1462.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1463.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1463.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1464.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1464.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1465.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1465.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1466.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1466.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1467.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1467.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1468.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1468.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1469.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1469.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1470.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1470.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1471.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1471.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1472.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1472.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1473.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1473.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1474.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1474.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1475.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1475.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1476.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1476.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1477.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1477.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1478.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1478.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1479.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1479.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1480.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1480.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1481.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1481.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1482.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1482.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1483.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1483.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1484.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1484.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1485.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1485.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1486.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1486.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1487.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1487.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1488.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1488.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1489.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1489.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1490.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1490.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/1491.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/1491.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6074.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6074.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6075.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6075.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6076.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6076.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6077.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6077.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6078.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6078.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6079.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6079.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6080.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6080.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6081.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6081.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6082.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6082.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6083.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6083.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6084.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6084.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6085.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6085.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6086.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6086.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6087.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6087.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6088.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6088.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6089.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6089.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6090.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6090.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6091.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6091.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6092.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6092.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6093.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6093.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6094.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6094.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6095.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6095.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6096.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6096.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6097.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/Codeup/6097.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/Codeup/6098.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Tree1/02_1231중위순회.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/11315_오목판정/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/SWEA/11315_오목판정/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/11315_오목판정/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/SWEA/11315_오목판정/s2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/11315_오목판정/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/SWEA/11315_오목판정/sample_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/1206_View/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/SWEA/1206_View/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/1206_View/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/SWEA/1206_View/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/1208_Flatten/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/SWEA/1208_Flatten/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/1208_Flatten/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/SWEA/1208_Flatten/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/1209_Sum/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/SWEA/1209_Sum/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/1209_Sum/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/SWEA/1209_Sum/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/1289_원재의메모리복구하기/input (2).txt" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/SWEA/1289_원재의메모리복구하기/input (2).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/1289_원재의메모리복구하기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/SWEA/1289_원재의메모리복구하기/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/1974_스도쿠검증/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/SWEA/1974_스도쿠검증/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/1974_스도쿠검증/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/SWEA/1974_스도쿠검증/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/2805_농작물수확하기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/SWEA/2805_농작물수확하기/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/6190_정곤이의단조증가하는수/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/SWEA/6190_정곤이의단조증가하는수/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM준비/SWEA/6190_정곤이의단조증가하는수/s_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/SWEA/6190_정곤이의단조증가하는수/s_input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,16 +125,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\07_Tree1\5174_subtree" />
+      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\07_Tree1" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\시험대비\problem" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\IM준비\SWEA\1289_원재의메모리복구하기" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.파리3">
-    <configuration name="파리3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.s1">
+    <configuration name="01_연습문제1_순회" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/시험대비/problem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Tree1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/시험대비/problem/파리3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Tree1/01_연습문제1_순회.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_1231중위순회" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +165,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IM준비/BOJ/2669_직사각형네개의합집합면적구하기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Tree1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IM준비/BOJ/2669_직사각형네개의합집합면적구하기/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Tree1/02_1231중위순회.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +186,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IM준비/BOJ/2578_빙고" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Tree1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IM준비/BOJ/2578_빙고/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Tree1/dd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +199,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +207,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/시험대비/problem/06_10157_자리배정" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Tree1/5174_subtree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/시험대비/problem/06_10157_자리배정/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Tree1/5174_subtree/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tree1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,11 +228,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IM준비/BOJ/2578_빙고" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Tree1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IM준비/BOJ/2578_빙고/s2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Tree1/tree1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.파리3" />
-        <item itemvalue="Python.s1 (4)" />
-        <item itemvalue="Python.s1 (3)" />
-        <item itemvalue="Python.s2" />
-        <item itemvalue="Python.s1 (2)" />
+        <item itemvalue="Python.s1" />
+        <item itemvalue="Python.02_1231중위순회" />
+        <item itemvalue="Python.01_연습문제1_순회" />
+        <item itemvalue="Python.dd" />
+        <item itemvalue="Python.tree1" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +260,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661521193568</updated>
     </task>
+    <task id="LOCAL-00001" summary="docs: Add IM준비">
+      <created>1661783597359</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661783597359</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,11 +282,15 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docs: Add IM준비" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: Add IM준비" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/IM준비/Codeup/1474.py</url>
+          <url>file://$PROJECT_DIR$/알테준비/Codeup/1474.py</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
