@@ -10,7 +10,7 @@ def enq(n):
         c = p
         p = c // 2
 
-def dep():
+def deq():
     global last
     tmp = heap[1]       # 루트 백업
     heap[1] = heap[last]# 삭제할 노드의 키를 루트에 복사
