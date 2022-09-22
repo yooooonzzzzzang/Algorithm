@@ -2,14 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28189cf7-0ca2-4a40-8209-3059dc0e0c2d" name="Default Changelist" comment="docs: Add IM준비">
-      <change afterPath="$PROJECT_DIR$/07_Tree1/1232_사칙연산/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Tree1/5177_이진힙/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Tree1/5177_이진힙/sample_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Tree1/11688_calkin_wilf_tree/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Tree1/11688_calkin_wilf_tree/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Tree1/15231_바이너리트리/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Tree1/15231_바이너리트리/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_/4881_배열의합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_/nPr1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_/nPr2recur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_/nPr3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_/nPr4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_/부분집합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_/부분집합재귀.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_/조합1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_/조합2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알테준비/programmers/폰켓몬/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_Tree1/5176_이진탐색/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Tree1/5176_이진탐색/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_Tree1/tree2.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Tree1/tree2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_Tree1/최대힙.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Tree1/최대힙.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/알테준비/programmers/성격유형검사/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/programmers/성격유형검사/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/알테준비/programmers/성격유형검사/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/programmers/성격유형검사/s2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,19 +56,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\multicampus\Desktop\Algorithm\07_Tree1\5177_이진힙" />
-      <recent name="C:\Users\multicampus\Desktop\Algorithm\07_금_A형\1486_장훈이의높은선반" />
-      <recent name="C:\Users\multicampus\Desktop\Algorithm\07_Tree1\1231_중위순회" />
-      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\07_Tree1\5174_subtree" />
+      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm" />
+      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\07_Tree1\11688_calkin_wilf_tree" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\07_Tree1" />
+      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\07_Tree1\15231_바이너리트리" />
+      <recent name="C:\Users\multicampus\Desktop\Algorithm\07_Tree1\5177_이진힙" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.s1 (2)">
-    <configuration name="P2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.조합2">
+    <configuration name="부분집합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_start" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_start/P2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_/부분집합.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="조합1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Tree1/5176_이진탐색" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Tree1/5176_이진탐색/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_/조합1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="부분집합재귀" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Tree1/5177_이진힙" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Tree1/5177_이진힙/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_/부분집합재귀.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="조합2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Tree1/1232_사칙연산" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Tree1/1232_사칙연산/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_/조합2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tree2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="nPr4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +161,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Tree1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Tree1/tree2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_/nPr4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.s1 (2)" />
-        <item itemvalue="Python.s1" />
-        <item itemvalue="Python.s1 (1)" />
-        <item itemvalue="Python.tree2" />
-        <item itemvalue="Python.P2" />
+        <item itemvalue="Python.조합2" />
+        <item itemvalue="Python.조합1" />
+        <item itemvalue="Python.부분집합재귀" />
+        <item itemvalue="Python.부분집합" />
+        <item itemvalue="Python.nPr4" />
       </list>
     </recent_temporary>
   </component>
