@@ -46,4 +46,6 @@ for i in range(E):
     par[c] = p
 #root = find_root(V)
 #print(root)
+print(ch1)
+print(ch2)
 preorder(1)
