@@ -2,25 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28189cf7-0ca2-4a40-8209-3059dc0e0c2d" name="Default Changelist" comment="docs: Add IM준비">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Tree1/11688_calkin_wilf_tree/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Tree1/11688_calkin_wilf_tree/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Tree1/15231_바이너리트리/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Tree1/15231_바이너리트리/sample_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_/4881_배열의합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_/nPr1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_/nPr2recur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_/nPr3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_/nPr4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_/부분집합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_/부분집합재귀.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_/조합1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_/조합2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알테준비/programmers/폰켓몬/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_완전탐색_그리디/ 동전0/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_완전탐색_그리디/4881_배열의합2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_완전탐색_그리디/5188_최소합/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_완전탐색_그리디/babygin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_완전탐색_그리디/babygin_greedy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_완전탐색_그리디/babygin_완전탐색.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_완전탐색_그리디/babygin_완탐기본.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_완전탐색_그리디/선택정렬_재귀.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/알테준비/programmers/성격유형검사/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/programmers/성격유형검사/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/알테준비/programmers/성격유형검사/s2.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/programmers/성격유형검사/s2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_/4881_배열의합.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_완전탐색_그리디/4881_배열의합.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_/nPr1.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_완전탐색_그리디/nPr1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_/nPr2recur.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_완전탐색_그리디/nPr2recur.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_/nPr3.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_완전탐색_그리디/nPr3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_/nPr4.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_완전탐색_그리디/nPr4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_/부분집합.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_완전탐색_그리디/부분집합.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_/부분집합재귀.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_완전탐색_그리디/부분집합재귀.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_/조합1.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_완전탐색_그리디/조합1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_/조합2.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_완전탐색_그리디/조합2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +67,8 @@
       <recent name="C:\Users\multicampus\Desktop\Algorithm\07_Tree1\5177_이진힙" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.조합2">
-    <configuration name="부분집합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.babygin_완전탐색">
+    <configuration name="4881_배열의합2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,28 +80,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_/부분집합.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="조합1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_/조합1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_/4881_배열의합2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="조합2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="선택정렬_재귀" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +118,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_완전탐색_그리디" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_/조합2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_완전탐색_그리디/선택정렬_재귀.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="babygin_완전탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_완전탐색_그리디" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_완전탐색_그리디/babygin_완전탐색.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nPr2recur" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_완전탐색_그리디" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_완전탐색_그리디/nPr2recur.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,10 +196,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.조합2" />
-        <item itemvalue="Python.조합1" />
-        <item itemvalue="Python.부분집합재귀" />
-        <item itemvalue="Python.부분집합" />
+        <item itemvalue="Python.babygin_완전탐색" />
+        <item itemvalue="Python.nPr2recur" />
+        <item itemvalue="Python.선택정렬_재귀" />
+        <item itemvalue="Python.4881_배열의합2" />
         <item itemvalue="Python.nPr4" />
       </list>
     </recent_temporary>

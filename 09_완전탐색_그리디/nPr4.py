@@ -11,8 +11,21 @@ def f(i,k,r):
                 used[j] = 0     # a[j]를 다른 자리에서 쓸 수 있도록 해제
 
 N = 5
-R = 3
+R = 4
 a =[i for i in range(1,N+1)]
 used = [0] * N
 p = [0] * R    # 실제 저장할 공간
 f(0,N,R)
+
+'''
+맨 앞 1을 고정시키고 순열을 돌리고 싶다면?? 
+N = 5
+R = 5
+a =[i for i in range(1,N+1)]
+used = [0] * N
+p = [0] * R    # 실제 저장할 공간
+p[0] = 1
+used[0]= 1
+f(1,N,R)
+
+'''
