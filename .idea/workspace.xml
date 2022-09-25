@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28189cf7-0ca2-4a40-8209-3059dc0e0c2d" name="Default Changelist" comment="docs: Update BOJ" />
+    <list default="true" id="28189cf7-0ca2-4a40-8209-3059dc0e0c2d" name="Default Changelist" comment="docs: Update BOJ">
+      <change afterPath="$PROJECT_DIR$/02_List2/01_P1/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_List2/03_Snail/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_Tree1/5178_노드의합/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_금_A형/1861_정사각형방/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알테준비/SWEA/1979_어디에단어가들어갈수있을까/input (2).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알테준비/SWEA/1979_어디에단어가들어갈수있을까/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_List2/01_P1/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_List2/01_P1/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_List2/01_P1/델타탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_List2/01_P1/델타탐색.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +36,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="2DtbAzZPzolFvvb4TOrs7g5dTuW" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -36,20 +46,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\알테준비\SWEA\1979_어디에단어가들어갈수있을까" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\07_Tree1\11688_calkin_wilf_tree" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\07_Tree1" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\07_Tree1\15231_바이너리트리" />
-      <recent name="C:\Users\multicampus\Desktop\Algorithm\07_Tree1\5177_이진힙" />
     </key>
   </component>
   <component name="RunManager" selected="Python.s2 (1)">
-    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="델타탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,11 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/카카오" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_List2/01_P1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/카카오/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_List2/01_P1/델타탐색.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/알테준비/BOJ/1991_트리순회" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_List2/01_P1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알테준비/BOJ/1991_트리순회/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_List2/01_P1/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,11 +108,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Tree1/15231_바이너리트리" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Tree1/5178_노드의합" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Tree1/15231_바이너리트리/s2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Tree1/5178_노드의합/s2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s2 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_List2/01_P1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_List2/01_P1/s2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,32 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Tree1/1232_사칙연산" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_금_A형/1861_정사각형방" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Tree1/1232_사칙연산/s2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/카카오" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/카카오/s6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_금_A형/1861_정사각형방/s2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,9 +167,9 @@
       <list>
         <item itemvalue="Python.s2 (1)" />
         <item itemvalue="Python.s2" />
-        <item itemvalue="Python.s1 (3)" />
+        <item itemvalue="Python.s2 (2)" />
+        <item itemvalue="Python.델타탐색" />
         <item itemvalue="Python.s1" />
-        <item itemvalue="Python.s6" />
       </list>
     </recent_temporary>
   </component>
@@ -214,6 +223,11 @@
           <url>file://$PROJECT_DIR$/알테준비/Codeup/1474.py</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02_List2/01_P1/s2.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -17,14 +17,14 @@ for t in range(1, int(input()) + 1):
 
     for x in range(n):
         for y in range(n):
-            temp = 0  # 한 칸의 합
+            #temp = 0  # 한 칸의 합
 
             # 4방향 델타탐색
             for i in range(4):
                 nx, ny = x + dx[i], y + dy[i]  # 다음 위치 이동
                 if 0 <= nx < n and 0 <= ny < n:  # 범위 내 인가?
-                    temp += get_abs(board[nx][ny] - board[x][y])
+                    total += get_abs(board[nx][ny] - board[x][y])
 
-            total += temp
+            # total += temp
 
     print(f'#{t} {total}')
