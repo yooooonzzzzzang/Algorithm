@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28189cf7-0ca2-4a40-8209-3059dc0e0c2d" name="Default Changelist" comment="docs: Update BOJ">
-      <change afterPath="$PROJECT_DIR$/02_List2/01_P1/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_List2/03_Snail/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Tree1/5178_노드의합/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_금_A형/1861_정사각형방/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알테준비/SWEA/1979_어디에단어가들어갈수있을까/input (2).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알테준비/SWEA/1979_어디에단어가들어갈수있을까/s1.py" afterDir="false" />
+    <list default="true" id="28189cf7-0ca2-4a40-8209-3059dc0e0c2d" name="Default Changelist" comment="2022_09_25">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_List2/01_P1/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_List2/01_P1/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_List2/01_P1/델타탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_List2/01_P1/델타탐색.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663860214611</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2022_09_25">
+      <created>1664109367847</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664109367847</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,7 +213,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="docs: Add IM준비" />
     <MESSAGE value="docs: Update BOJ" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: Update BOJ" />
+    <MESSAGE value="2022_09_25" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022_09_25" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
