@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28189cf7-0ca2-4a40-8209-3059dc0e0c2d" name="Default Changelist" comment="2022_09_25">
+    <list default="true" id="28189cf7-0ca2-4a40-8209-3059dc0e0c2d" name="Default Changelist" comment="2022_09_27">
+      <change afterPath="$PROJECT_DIR$/11_분할정복_백트래킹/5205_퀵정렬/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_분할정복_백트래킹/5205_퀵정렬/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_분할정복_백트래킹/5207_이진탐색/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_분할정복_백트래킹/5207_이진탐색/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_그래프/5521_상원이의생일파티/5521_상원이의생일파티_dfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_그래프/5521_상원이의생일파티/bfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_그래프/5521_상원이의생일파티/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_그래프/kruskal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_그래프/mst1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_그래프/p1/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_그래프/p2/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_그래프/prim1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_그래프/prim2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_그래프/인접.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_분할정복_백트래킹/2806_nqueen.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_분할정복_백트래킹/2806_nqueen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_분할정복_백트래킹/5204_병합정렬/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_분할정복_백트래킹/5204_병합정렬/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_분할정복_백트래킹/5204_병합정렬/sample_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/11_분할정복_백트래킹/5204_병합정렬/sample_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_분할정복_백트래킹/p1_퀵정렬/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/11_분할정복_백트래킹/p1_퀵정렬/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_분할정복_백트래킹/p1_퀵정렬/p1_퀵정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_분할정복_백트래킹/p1_퀵정렬/p1_퀵정렬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_분할정복_백트래킹/p3_tree/input" beforeDir="false" afterPath="$PROJECT_DIR$/11_분할정복_백트래킹/p3_tree/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_분할정복_백트래킹/p3_tree/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_분할정복_백트래킹/p3_tree/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_분할정복_백트래킹/quick.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_분할정복_백트래킹/quick.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_분할정복_백트래킹/병합정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_분할정복_백트래킹/병합정렬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_분할정복_백트래킹/부분집합의합_백트래킹.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_분할정복_백트래킹/부분집합의합_백트래킹.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_분할정복_백트래킹/퀵_로무토.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_분할정복_백트래킹/퀵_로무토.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_분할정복_백트래킹/퀵_파이써닉.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_분할정복_백트래킹/퀵_파이써닉.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_분할정복_백트래킹/퀵_호어.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_분할정복_백트래킹/퀵_호어.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,15 +69,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\12_그래프\5521_상원이의생일파티" />
+      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\11_분할정복_백트래킹\5207_이진탐색" />
+      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\11_분할정복_백트래킹\5205_퀵정렬" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\알테준비\SWEA\1979_어디에단어가들어갈수있을까" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm" />
-      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\07_Tree1\11688_calkin_wilf_tree" />
-      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\07_Tree1" />
-      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\07_Tree1\15231_바이너리트리" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.s2 (1)">
-    <configuration name="델타탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.s1 (3)">
+    <configuration name="인접" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +85,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_List2/01_P1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_그래프" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_List2/01_P1/델타탐색.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_그래프/인접.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_분할정복_백트래킹/5205_퀵정렬" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_분할정복_백트래킹/5205_퀵정렬/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_그래프/p1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_그래프/p1/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_그래프/p2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_그래프/p2/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,74 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_List2/01_P1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_분할정복_백트래킹/5207_이진탐색" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_List2/01_P1/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_Tree1/5178_노드의합" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_Tree1/5178_노드의합/s2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s2 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_List2/01_P1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_List2/01_P1/s2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_금_A형/1861_정사각형방" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_금_A형/1861_정사각형방/s2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_분할정복_백트래킹/5207_이진탐색/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.s2 (1)" />
-        <item itemvalue="Python.s2" />
-        <item itemvalue="Python.s2 (2)" />
-        <item itemvalue="Python.델타탐색" />
+        <item itemvalue="Python.s1 (3)" />
+        <item itemvalue="Python.s1 (2)" />
+        <item itemvalue="Python.인접" />
         <item itemvalue="Python.s1" />
+        <item itemvalue="Python.s1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664109367847</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2022_09_27">
+      <created>1664233213674</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664233213675</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,7 +248,8 @@
     <MESSAGE value="docs: Add IM준비" />
     <MESSAGE value="docs: Update BOJ" />
     <MESSAGE value="2022_09_25" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022_09_25" />
+    <MESSAGE value="2022_09_27" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022_09_27" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -228,6 +263,11 @@
           <url>file://$PROJECT_DIR$/02_List2/01_P1/s2.py</url>
           <line>8</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/12_그래프/인접.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
