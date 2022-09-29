@@ -2,22 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28189cf7-0ca2-4a40-8209-3059dc0e0c2d" name="Default Changelist" comment="2022_09_27">
-      <change afterPath="$PROJECT_DIR$/12_그래프/1753_최단경로_다익스트라/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_그래프/1922_네트워크연결_크루스칼_프림/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_그래프/1922_네트워크연결_크루스칼_프림/프림.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_그래프/1976_여행가자_서로소집합/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_그래프/1976_여행가자_서로소집합/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_그래프/5249_최소신장트리/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_그래프/다익스트라알고리즘.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_그래프/유니온파인드.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_그래프/크루스칼알고리즘.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_그래프/프림알고리즘.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_그래프/1922_네트워크연결_크루스칼_프림/크루스칼.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_그래프/5248_그룹나누기/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_그래프/5248_그룹나누기/sample_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_그래프/5249_최소신장트리/s2_prim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_그래프/5249_최소신장트리/sample_input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_그래프/kruskal.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_그래프/온라인/kruskal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_그래프/mst1.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_그래프/온라인/mst1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_그래프/prim1.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_그래프/온라인/prim1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_그래프/prim2.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_그래프/온라인/prim2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_그래프/인접.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_그래프/온라인/인접.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_그래프/1922_네트워크연결_크루스칼_프림/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_그래프/1922_네트워크연결_크루스칼_프림/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_그래프/5249_최소신장트리/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_그래프/5249_최소신장트리/s1_kruskal.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,14 +49,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\12_그래프\5249_최소신장트리" />
+      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\12_그래프\5248_그룹나누기" />
       <recent name="C:\Users\multicampus\Desktop\Algorithm\12_그래프\온라인" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\12_그래프\5521_상원이의생일파티" />
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\11_분할정복_백트래킹\5207_이진탐색" />
-      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\11_분할정복_백트래킹\5205_퀵정렬" />
-      <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\알테준비\SWEA\1979_어디에단어가들어갈수있을까" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.유니온파인드">
+  <component name="RunManager" selected="Python.s1_kruskal">
     <configuration name="크루스칼알고리즘" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,6 +99,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="유니온파인드" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_그래프" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_그래프/유니온파인드.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_그래프/5249_최소신장트리" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_그래프/5248_그룹나누기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_그래프/5249_최소신장트리/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_그래프/5248_그룹나누기/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="s1_kruskal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_그래프/1976_여행가자_서로소집합" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_그래프/5249_최소신장트리" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_그래프/1976_여행가자_서로소집합/s2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_그래프/5249_최소신장트리/s1_kruskal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1_kruskal" />
+        <item itemvalue="Python.s1 (1)" />
+        <item itemvalue="Python.s1" />
         <item itemvalue="Python.유니온파인드" />
         <item itemvalue="Python.크루스칼알고리즘" />
-        <item itemvalue="Python.s2" />
-        <item itemvalue="Python.s1" />
-        <item itemvalue="Python.s1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -266,6 +279,16 @@
           <url>file://$PROJECT_DIR$/12_그래프/크루스칼알고리즘.py</url>
           <line>24</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/12_그래프/1922_네트워크연결_크루스칼_프림/s1.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/12_그래프/1922_네트워크연결_크루스칼_프림/s1.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

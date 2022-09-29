@@ -1,4 +1,33 @@
-'''
+def find_set(node):
+    if parent[node] != node:
+        parent[node] = find_set(parent[node])
+    return parent[node]
+n = int(input())
+m = int(input())
+network = []
+for _ in range(m):
+    s,e,w = map(int, input().split())
+    network.ap
+    pend((w,s,e))
+network.sort()
+
+parent = list(range(n+1))
+cost = 0
+count = 0
+
+for distance, x, y in network:
+    # x와 y의 각각의 대표값 저장
+    x_root, y_root = find_set(x), find_set(y)
+    # 사이클이 아니면
+    if x_root != y_root:
+        parent[y_root] = x_root     # union 같은 집합으로
+        cost += distance
+        count += 1
+        if count >= n-1:     # 간선의 최대 개수 = 정점 -1
+            break
+
+print(cost)
+'''     
 6
 9
 1 2 5
@@ -11,38 +40,3 @@
 4 6 8
 5 6 8
 '''
-def find_set(node):
-    if node != parent[node]:
-        ### 이 부분이 중요!! 왜 경로 압축이 되는가?!?!?!
-        parent[node] = find_set(parent[node])
-    return parent[node]
-
-n = int(input())    # 컴퓨터의 수
-m = int(input())    # 간선의 개수
-network = []
-
-for _ in range(m):
-    # 시작, 도착, 비용
-    s, e, w = map(int, input().split())
-    network.append((w,s,e))
-# 비용을 기준으로 정렬(오름차)
-network.sort()
-# make_set
-parent = list(range(n+1))
-counts = 0      # 더 이상 간선을 선택하지 않아도 되는 때를 판별
-cost = 0        # 총 비용(최소가 되는 걸 찾고 싶다)
-
-for w,x,y in network:
-    x_root = find_set(x)
-    y_root = find_set(y)
-
-    # union
-    if x_root != y_root:    # 서로소이면
-        parent[y_root] = x_root
-        cost += w
-        counts += 1
-
-        if counts >= n-1:
-            break
-
-print(cost)
