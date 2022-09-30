@@ -12,6 +12,7 @@ for t in range(1, int(input()) + 1):
     n, m = map(int,input().split())     # n: 출석번호, m: 신청서
     parent = list(range(n+1))
     arr = list(map(int, input().split()))
+    print(parent)
     for i in range(m):
         x, y = arr[i*2], arr[i*2+1]
         x_root, y_root = find_set(x), find_set(y)
@@ -21,9 +22,9 @@ for t in range(1, int(input()) + 1):
             else:
                 parent[x_root] = y_root
 
-    #print(parent)
+    print(parent)
     for i in range(1, n + 1):
         parent[i] = find_set(i)
-    #print(parent)
+    print(parent)
 
     print(f'#{t} {len(set(parent))-1}')

@@ -21,7 +21,6 @@ result = 'YES'
 print(parent)
 
 for plan in plans:
-    print(parent[plan], find_set(plan))
     if parent[plans[0]] != find_set(plan):
         result = 'NO'
         break

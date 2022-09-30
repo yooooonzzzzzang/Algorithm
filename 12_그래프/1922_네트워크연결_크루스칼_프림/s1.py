@@ -1,3 +1,4 @@
+# 크루스칼
 def find_set(node):
     if parent[node] != node:
         parent[node] = find_set(parent[node])
@@ -7,8 +8,7 @@ m = int(input())
 network = []
 for _ in range(m):
     s,e,w = map(int, input().split())
-    network.ap
-    pend((w,s,e))
+    network.append((w,s,e))
 network.sort()
 
 parent = list(range(n+1))

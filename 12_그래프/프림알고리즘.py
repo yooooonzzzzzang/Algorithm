@@ -1,8 +1,10 @@
 # 1) 일반적인 프림 알고리즘
-
+#1. 임의 정점 선택
+#2. mst 에서 갈수 있는 모든 정점 가장 최소 비용 선택
+#3. cost += distance
 def prim(start):
     visited = [False] * (n + 1)  # MST에 포함 여부 리스트
-		# mst 에서 v 로 ! 가는 간선 비용
+	# mst 에서 v 로 ! 가는 간선 비용
     distance = [INF] * (n + 1)  # distance[v] => 정점 v가 MST에 속한 정점과 연결된 간선의 비용
     distance[start] = 0
     cost = 0  # MST의 비용 총합(== 최소 비용)
@@ -18,6 +20,7 @@ def prim(start):
 
         # 2. 해당 정점을 MST에 포함하고 비용을 더함
         visited[min_node] = True
+        print(min_node) # 방문순서
         cost += min_dist
 
         # 3. 해당 정점과 인접한 정점에 대해 최소 비용 갱신
@@ -36,7 +39,6 @@ for _ in range(m):
     s, e, w = map(int, input().split())  # 시작 정점, 도착 정점, 비용
     graph[s].append((e, w))
     graph[e].append((s, w))
-
 print(prim(1))  # 1번 정점에서 시작
 '''
 7 11

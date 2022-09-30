@@ -20,7 +20,7 @@ def dijkstra(start):
 
         # 2. 해당 정점 최단 거리 확정
         visited[min_node] = True
-
+        print(min_node)
         # 3. 해당 정점에 인접한 정점에 대해 최단 거리 갱신
         for next_node, dist in graph[min_node]:
             new_dist = distance[min_node] + dist
@@ -31,7 +31,7 @@ def dijkstra(start):
 n, m = map(int, input().split())  # 정점, 간선 개수
 graph = [[] for _ in range(n + 1)]
 INF = 99999999  # 나올 수 없는 임의의 큰 수
-distance = [INF] * (n + 1)  # 출발 정점에서 다른 정점들까지의 최단 거리(무한으로 초기화)
+distance = [INF] * (n + 1)  # 출발 정점-> 임의 정점들까지의 최단 거리(무한으로 초기화)
 
 for _ in range(m):
     s, e, w = map(int, input().split())
@@ -53,4 +53,17 @@ print(distance)
 4 6 3
 5 1 3
 5 6 6
+'''
+
+
+'''
+5 8
+1 0 5
+1 4 7 
+1 2 4
+0 2 3
+0 3 7
+2 4 8
+2 3 3
+4 3 4
 '''
