@@ -7,7 +7,7 @@ for t in range(1, int(input()) + 1):
     a = [list(map(int, input())) for _ in range(N)]
     result = 0
 
-    # s: 시작포인트, e: 끝포인트
+    #시작,끝 처음엔 중간값으로
     s, e = N // 2, N // 2
     for i in range(N):
         for j in range(s, e + 1):
