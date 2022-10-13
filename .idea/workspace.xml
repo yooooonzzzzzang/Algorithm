@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28189cf7-0ca2-4a40-8209-3059dc0e0c2d" name="Default Changelist" comment="2022_09_27">
-      <change afterPath="$PROJECT_DIR$/10_금_A형/4615_재미있는오셀로게임/maze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_금_A형/4615_재미있는오셀로게임/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_금_A형/4615_재미있는오셀로게임/sample_input(1).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_금_A형/4615_재미있는오셀로게임/부분집합구하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알테준비/BOJ/7576_토마토/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알테준비/BOJ/7576_토마토/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알테준비/SWEA/2805_농작물수확하기/output (3).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알테준비/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알테준비/SWEA/10026_적록색약/s1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_금_A형/4615_재미있는오셀로게임/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_금_A형/4615_재미있는오셀로게임/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/알테준비/SWEA/2805_농작물수확하기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/SWEA/2805_농작물수확하기/s1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,49 +50,7 @@
       <recent name="C:\Users\multicampus\Desktop\Algorithm\12_그래프\온라인" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.s1 (2)">
-    <configuration name="부분집합구하기 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_금_A형/4615_재미있는오셀로게임" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_금_A형/4615_재미있는오셀로게임/부분집합구하기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="유니온파인드" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_그래프" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_그래프/유니온파인드.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.s1">
     <configuration name="유니온파인드" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,6 +114,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/알테준비/SWEA/10026_적록색약" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알테준비/SWEA/10026_적록색약/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="s2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1" />
         <item itemvalue="Python.s1 (2)" />
         <item itemvalue="Python.s1 (1)" />
         <item itemvalue="Python.s2" />
         <item itemvalue="Python.test1" />
-        <item itemvalue="Python.부분집합구하기 (1)" />
       </list>
     </recent_temporary>
   </component>
