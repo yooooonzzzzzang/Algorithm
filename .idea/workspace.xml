@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28189cf7-0ca2-4a40-8209-3059dc0e0c2d" name="Default Changelist" comment="2022_09_27">
-      <change afterPath="$PROJECT_DIR$/알테준비/BOJ/1926_그림/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알테준비/BOJ/3178_양치기꿍/s2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/알테준비/SWEA/3178_양치기꿍/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/알테준비/BOJ/3178_양치기꿍/s1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
