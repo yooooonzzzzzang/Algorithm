@@ -22,4 +22,4 @@ for i in range(0, len(edges), 2):
     graph[v1].append(v2)
     graph[v2].append(v1)
 
-dfs(1)  # 시작 정점을 1로 탐색 시작
+dfs(1)  # 시작 정점을 1로 탐색에 시작
