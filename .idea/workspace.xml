@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28189cf7-0ca2-4a40-8209-3059dc0e0c2d" name="Default Changelist" comment="2022_09_27">
-      <change afterPath="$PROJECT_DIR$/04_Stack1/03_DFS구현/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1_실습/02_2606_바이러스/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_Stack1_실습/07_4871_그래프경로/s2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/알테준비/BOJ/2178_미로탐색/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Stack1_실습/00_DFS이차원격자탐색/s1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Stack1/Stack1_이론.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\12_그래프\5249_최소신장트리" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.s2 (1)">
+  <component name="RunManager" selected="Python.s1">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Stack1_실습/02_2606_바이러스" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_Stack1_실습/00_DFS이차원격자탐색" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Stack1_실습/02_2606_바이러스/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_Stack1_실습/00_DFS이차원격자탐색/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1" />
         <item itemvalue="Python.s2 (1)" />
         <item itemvalue="Python.s1 (2)" />
         <item itemvalue="Python.s1 (1)" />
         <item itemvalue="Python.s2" />
-        <item itemvalue="Python.s1 (3)" />
       </list>
     </recent_temporary>
   </component>
