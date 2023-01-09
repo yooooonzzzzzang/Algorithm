@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28189cf7-0ca2-4a40-8209-3059dc0e0c2d" name="Default Changelist" comment="2022_09_27">
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/알테준비/BOJ/1260_DFS와BFS/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/알테준비/LeetCode/424.py" afterDir="false" />
+>>>>>>> c43efa60f218dbb307e5095a69eaae1238146955
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,14 +46,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/SSAFY/Desktop/Algorithm",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yunji/Desktop/Algorithm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+>>>>>>> c43efa60f218dbb307e5095a69eaae1238146955
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\dbswl\OneDrive\바탕 화면\Algorithm\알테준비\BOJ" />
@@ -67,11 +81,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/알테준비/BOJ/2644_촌수계산" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알테준비/BOJ/2644_촌수계산/s1.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/알테준비/BOJ/1260_DFS와BFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알테준비/BOJ/1260_DFS와BFS/s1.py" />
+>>>>>>> c43efa60f218dbb307e5095a69eaae1238146955
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
